@@ -1,0 +1,96 @@
+{
+  "configVersion": 1,
+  "timestamp": 1599723559448,
+  "index": "/Challenge_Team-cards/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Challenge_Team-cards/favicon.ico",
+        "/Challenge_Team-cards/index.html",
+        "/Challenge_Team-cards/main.05222cf572123fc7cc26.js",
+        "/Challenge_Team-cards/manifest.webmanifest",
+        "/Challenge_Team-cards/polyfills.a4021de53358bb0fec14.js",
+        "/Challenge_Team-cards/runtime.e227d1a0e31cbccbf8ec.js",
+        "/Challenge_Team-cards/styles.1b13e47223e6cc8b7f50.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Challenge_Team-cards/assets/icons/icon-128x128.png",
+        "/Challenge_Team-cards/assets/icons/icon-144x144.png",
+        "/Challenge_Team-cards/assets/icons/icon-152x152.png",
+        "/Challenge_Team-cards/assets/icons/icon-192x192.png",
+        "/Challenge_Team-cards/assets/icons/icon-384x384.png",
+        "/Challenge_Team-cards/assets/icons/icon-512x512.png",
+        "/Challenge_Team-cards/assets/icons/icon-72x72.png",
+        "/Challenge_Team-cards/assets/icons/icon-96x96.png",
+        "/Challenge_Team-cards/assets/images/photo1.jpg",
+        "/Challenge_Team-cards/assets/images/photo2.jpg",
+        "/Challenge_Team-cards/assets/images/photo3.jpg",
+        "/Challenge_Team-cards/assets/images/photo3.png",
+        "/Challenge_Team-cards/photo1.6afe593304a84948a8b8.jpg",
+        "/Challenge_Team-cards/photo2.eaf7841c4dc0e25d67cb.jpg",
+        "/Challenge_Team-cards/photo3.613fed6b2a9acd112efd.png",
+        "/Challenge_Team-cards/photo3.63330aa5c6b45bf3735e.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Challenge_Team-cards/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/Challenge_Team-cards/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/Challenge_Team-cards/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/Challenge_Team-cards/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/Challenge_Team-cards/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/Challenge_Team-cards/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/Challenge_Team-cards/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/Challenge_Team-cards/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/Challenge_Team-cards/assets/images/photo1.jpg": "4489c23e59a5de9d25ff261915cd12e27e2de8f0",
+    "/Challenge_Team-cards/assets/images/photo2.jpg": "011cfe8a6f4cef2d3f6bc1831c9f8a9a1157c9a5",
+    "/Challenge_Team-cards/assets/images/photo3.jpg": "e03d0127b0a03d19c47bf234df9fcdc3233a14df",
+    "/Challenge_Team-cards/assets/images/photo3.png": "b72674c31a4451bb61e886e79f4a77fde9e69b85",
+    "/Challenge_Team-cards/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/Challenge_Team-cards/index.html": "d4a2e99de94f7a8965a4c0df487d7c6173962f31",
+    "/Challenge_Team-cards/main.05222cf572123fc7cc26.js": "04ae1c8b1e85acd12df42d447e08d1e2dbde1a7d",
+    "/Challenge_Team-cards/manifest.webmanifest": "0bc467ab99e3cf7d7df9d1b97bc47997fdeba346",
+    "/Challenge_Team-cards/photo1.6afe593304a84948a8b8.jpg": "4489c23e59a5de9d25ff261915cd12e27e2de8f0",
+    "/Challenge_Team-cards/photo2.eaf7841c4dc0e25d67cb.jpg": "011cfe8a6f4cef2d3f6bc1831c9f8a9a1157c9a5",
+    "/Challenge_Team-cards/photo3.613fed6b2a9acd112efd.png": "b72674c31a4451bb61e886e79f4a77fde9e69b85",
+    "/Challenge_Team-cards/photo3.63330aa5c6b45bf3735e.jpg": "e03d0127b0a03d19c47bf234df9fcdc3233a14df",
+    "/Challenge_Team-cards/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/Challenge_Team-cards/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/Challenge_Team-cards/styles.1b13e47223e6cc8b7f50.css": "9f1b28341e8c85ba6a42a41ef73e1c9b094d6d53"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
